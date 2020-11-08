@@ -135,44 +135,24 @@
         </div>
         <br /><br /><br /><br /><br><br><br><br>
         <div class="container">
-            <h1>subcription form</h1>
-            <form>
+            <h1>Contact Us</h1>
+            <form name="contact" netlify>
                 <div class="form-row">
                     <div class="form-group col-md-6">
-                        <label for="inputEmail4">Email</label>
-                        <input type="email" class="form-control" id="inputEmail4">
+                        <label for="email">Email</label>
+                        <input type="email" name="email" required class="form-control" id="inputEmail4">
                     </div>
                     <div class="form-group col-md-6">
-                        <label for="inputPassword4">Password</label>
-                        <input type="password" class="form-control" id="inputPassword4">
+                        <label for="Name">Name</label>
+                        <input type="text" name="name" required class="form-control" id="inputName">
                     </div>
                 </div>
                 <div class="form-group">
-                    <label for="inputAddress">Address</label>
-                    <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                    <label for="exampleFormControlTextarea1">Your Message</label>
+                    <textarea class="form-control" required spellcheck="true" maxlength="255" name="message" id="exampleFormControlTextarea1" rows="5"></textarea>
                 </div>
-                <div class="form-group">
-                    <label for="inputAddress2">Address 2</label>
-                    <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
-                </div>
-                <div class="form-row">
-                    <div class="form-group col-md-6">
-                        <label for="inputCity">City</label>
-                        <input type="text" class="form-control" id="inputCity">
-                    </div>
-                    <div class="form-group col-md-4">
-                        <label for="inputState">State</label>
-                        <select id="inputState" class="form-control">
-                            <option selected>Choose...</option>
-                            <option>...</option>
-                        </select>
-                    </div>
-                    <div class="form-group col-md-2">
-                        <label for="inputZip">Zip</label>
-                        <input type="text" class="form-control" id="inputZip">
-                    </div>
-                </div>
-                <button type="submit" class="btn btn-primary">Sign in</button>
+                <br>
+                <button type="submit" class="btn btn-primary">Send</button>
             </form>
         </div>
 
