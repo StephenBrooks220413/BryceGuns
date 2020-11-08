@@ -76,7 +76,7 @@
                         <img src="https://static01.nyt.com/images/2016/10/12/us/12guns/12guns-videoSixteenByNineJumbo1600.jpg" width="90%" alt="">
                     </div>
                     <div class="col-md-6">
-                        <img src="https://th.bing.com/th/id/OIP.v0F-ftMMOkvLic2-10yLowHaEK?w=306&h=180&c=7&o=5&dpr=1.5&pid=1.7" widht="70%" alt="">
+                        <img src="https://th.bing.com/th/id/OIP.v0F-ftMMOkvLic2-10yLowHaEK?w=306&h=180&c=7&o=5&dpr=1.5&pid=1.7" width="70%" alt="">
                     </div>
                 </div>
             </div>
@@ -195,7 +195,7 @@
         width: 80%;
         margin-left: auto;
         margin-right: auto;
-        height: 70px;
+        height: auto;
         background-color: black;
         margin-bottom: 30px;
         margin-top: 10px;
