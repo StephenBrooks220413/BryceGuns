@@ -74,9 +74,11 @@
                 <div class="row text-center">
                     <div class="col-md-6">
                         <img src="https://static01.nyt.com/images/2016/10/12/us/12guns/12guns-videoSixteenByNineJumbo1600.jpg" width="90%" alt="">
+                        <br>
                     </div>
                     <div class="col-md-6">
                         <img src="https://th.bing.com/th/id/OIP.v0F-ftMMOkvLic2-10yLowHaEK?w=306&h=180&c=7&o=5&dpr=1.5&pid=1.7" width="90%" alt="">
+                        <br>
                     </div>
                 </div>
             </div>
