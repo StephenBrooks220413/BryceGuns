@@ -93,7 +93,7 @@
         <div class="block">
             <h1 class="text-center">Weapon Articles</h1>
             <br />
-            <div class="container">
+            <div>
                 <div class="row text-center">
                     <div class="col-md-4">
                         New trending guns coming out soon
@@ -169,7 +169,7 @@
         padding-left:10%;
     }
     .block {
-        border: 1px solid grey;
+        /* border: 1px solid grey; */
         width: 70%;
         height: auto;
         padding-top: 30px;
