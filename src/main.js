@@ -4,6 +4,7 @@ import VueRouter from 'vue-router'
 import Contact from './components/Contact.vue'
 import HelloWorld from './components/HelloWorld.vue'
 import Nav from './components/Nav.vue'
+import Blogs from './components/Blogs.vue'
 
 Vue.use(VueRouter);
 
@@ -18,6 +19,9 @@ const routes = [
   {
     path: '/HelloWorld', component: HelloWorld
   },
+  {
+    path: '/Blogs', component: Blogs
+  }
 
 ];
 

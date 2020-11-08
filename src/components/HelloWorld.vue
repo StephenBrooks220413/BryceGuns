@@ -57,53 +57,58 @@
                 </div>
             </div>
         </div>
+        <br /><br /><br /><br /><br /><br />
+        <center>
+            <div class="card">
+            <div class="content-title">
+                <h1>Come see our inventory</h1>
+            </div>
+            <div class="content-text">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia amet harum soluta totam rem, facilis sint eveniet cumque, nisi ab nesciunt, reiciendis nihil nemo quaerat blanditiis fuga enim unde temporibus.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate amet minima, aliquam dicta saepe, recusandae laboriosam fugiat id suscipit a quod unde corporis, voluptatem aliquid! Sunt commodi natus quisquam delectus?
+                <br><br>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam ut doloribus facilis explicabo laudantium! Delectus iste blanditiis libero placeat ab magni voluptate impedit et provident. Minima tempora quod repellendus quas?
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam sapiente repellendus quibusdam modi placeat ut voluptatum vitae, ipsum ab quod sint ad excepturi reprehenderit magnam incidunt accusamus cum neque quae?
+            </div>
+            <div class="container content-images">
+                <div class="row text-center">
+                    <div class="col-md-6">
+                        <img src="https://static01.nyt.com/images/2016/10/12/us/12guns/12guns-videoSixteenByNineJumbo1600.jpg" width="90%" alt="">
+                    </div>
+                    <div class="col-md-6">
+                        <img src="https://th.bing.com/th/id/OIP.v0F-ftMMOkvLic2-10yLowHaEK?w=306&h=180&c=7&o=5&dpr=1.5&pid=1.7" widht="70%" alt="">
+                    </div>
+                </div>
+            </div>
+            <br><br><br>
+            <div class="shop-btn">
+                <button class="btn btn-primary">GO TO INVENTORY</button>
+            </div>
+            <br><br><br>
+        </div>
+        </center>
         <br /><br /><br /><br />
         <div class="jumbotron block">
-            <h1 class="text-center">Sports Articles</h1>
+            <h1 class="text-center">Weapon Articles</h1>
             <br />
             <div class="container">
                 <div class="row text-center">
                     <div class="col-md-4">
-                        Tincidunt integer eu augue augue nunc elit dolor, luctus placerat scelerisque euismod.
+                        New trending guns coming out soon
+                        <img src="http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2018/01/26/shot-2018-4-new-guns-for-powerful-home-defense/_jcr_content/par/featured_image/media-0.img.jpg/931/524/1516993480457.jpg?ve=1&tl=1&text=big-top-image" width="90%" alt="gun">
                     </div>
                     <div class="col-md-4">
-                        iaculis eu lacus nunc mi elit, vehicula ut laoreet ac, aliquam sit amet justo nunc tempor, metus vel.
+                        Current laws on guns and for you
+                        <img src="http://www.norcalblogs.com/postscripts/files/import/7270-gun-law2.jpg" width="90%" alt="gun laws">
                     </div>
                     <div class="col-md-4">
-                        Tincidunt integer eu augue augue nunc elit dolor, luctus placerat scelerisque euismod.
+                        Practice makes perfect, come try our targets
+                        <img src="https://th.bing.com/th?id=OP.oyuhuwnxxoQwwg474C474&w=300&h=300&o=5&dpr=1.5&pid=21.1" width="70%" alt="target">
                     </div>
                 </div>
             </div>
         </div>
         <br /><br /><br /><br />
-        <center>
-           <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-               <ol class="carousel-indicators">
-                  <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                  <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                  <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-               </ol>
-               <div class="carousel-inner">
-                  <div class="carousel-item active">
-                     <img src="https://images.unsplash.com/flagged/photo-1560177776-295b9cd779de?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=733&q=80" class="d-block w-75" height="360" alt="...">
-                  </div>
-                  <div class="carousel-item">
-                     <img src="https://images.unsplash.com/photo-1599590672143-d850e99b64dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" class="d-block w-75" height="360" alt="...">
-                  </div>
-                  <div class="carousel-item">
-                      <img src="https://images.unsplash.com/photo-1574088768814-c71125083959?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=683&q=80" class="d-block w-75" height="360" alt="...">
-                  </div>
-               </div>
-               <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                  <span class="sr-only">Previous</span>
-               </a>
-               <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                  <span class="sr-only">Next</span>
-               </a>
-           </div>
-        </center>
         <br /><br /><br /><br />
         <hr />
         <article class="container homeBlock" itemprop="blogPost">
@@ -134,27 +139,7 @@
             <h4 class="display-4">Honor the Brave</h4>
         </div>
         <br /><br /><br /><br /><br><br><br><br>
-        <div class="container">
-            <h1>Contact Us</h1>
-            <form name="contact" netlify>
-                <div class="form-row">
-                    <div class="form-group col-md-6">
-                        <label for="email">Email</label>
-                        <input type="email" name="email" required class="form-control" id="inputEmail4">
-                    </div>
-                    <div class="form-group col-md-6">
-                        <label for="Name">Name</label>
-                        <input type="text" name="name" required class="form-control" id="inputName">
-                    </div>
-                </div>
-                <div class="form-group">
-                    <label for="exampleFormControlTextarea1">Your Message</label>
-                    <textarea class="form-control" required spellcheck="true" maxlength="255" name="message" id="exampleFormControlTextarea1" rows="5"></textarea>
-                </div>
-                <br>
-                <button type="submit" class="btn btn-primary">Send</button>
-            </form>
-        </div>
+       
 
     </div>
 </template>
@@ -182,14 +167,16 @@
         padding-left:10%;
     }
     .block {
-        background: url(https://i.stack.imgur.com/lnuwK.png)no-repeat center center;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-        height: 40vh;
+        border: 1px solid grey;
+        width: 70%;
+        height: auto;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        height: 60vh;
         padding-top: 70px;
         margin-top:60px;
+        margin-left: auto;
+        margin-right: auto;
     }
     li a {
         color: goldenrod;
@@ -203,6 +190,28 @@
     }
     .option {
         color:black!important;
+    }
+    .content-title {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        height: 70px;
+        background-color: black;
+        margin-bottom: 30px;
+        margin-top: 10px;
+        padding-top: 14px;
+    }
+    .content-title h1 {
+        color: white!important;
+    }
+    .content-text {
+        width: 80%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 20px;
+        padding-bottom:20px;
+        font-size: 20px;
     }
 </style>
 
