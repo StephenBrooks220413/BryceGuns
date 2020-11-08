@@ -90,7 +90,7 @@
         </div>
         </center>
         <br /><br /><br /><br />
-        <div class="jumbotron block">
+        <div class="block">
             <h1 class="text-center">Weapon Articles</h1>
             <br />
             <div class="container">
@@ -174,7 +174,7 @@
         height: auto;
         padding-top: 30px;
         padding-bottom: 30px;
-        height: 60vh;
+        height: auto;
         padding-top: 70px;
         margin-top:60px;
         margin-left: auto;
